@@ -1,5 +1,5 @@
 
 
-![alt text](https://octodex.github.com/images/yaktocat.png "Title")
+![alt text](https://github.com/Brent1369/Altium/blob/main/images/circuit.png "Title")
 
-ojuiçhçgçguigyuggyugygy!ogè!gè!g!g!àg!àg!g!!g!à!g!ppgu
+![alt text](https://github.com/Brent1369/Altium/blob/main/images/pic.png "Title")
