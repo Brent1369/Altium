@@ -1,11 +1,10 @@
-**Geiger Counter**
+# Geiger Counter
 
+Here you can find the Altium files and libraries for making a Geiger counter
 
-Hierin zijn de schemas en altium files te vinden voor het maken van een geiger counter.
-
-
-![alt text](https://github.com/Brent1369/Altium/blob/main/images/pic.png "Title")
 
 ![alt text](https://github.com/Brent1369/Altium/blob/main/images/circuit.png "Title")
+
+![alt text](https://github.com/Brent1369/Altium/blob/main/images/pcb.png "Title")
 
 
